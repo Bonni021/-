@@ -28,7 +28,7 @@ async function handler(m, { conn, args, usedPrefix, command }) {
 
 Tienes  *60* s
 `.trim()
-    let c = '⫷᭄© Bonni 𝐁𝐨𝐭 ✍'
+    let c = '⫷᭄© 𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕'
     conn.sendButton(m.chat, confirm, c, null, [['si'], ['no']], m, { mentions: [who] })
     confirmation[m.sender] = {
         sender: m.sender,

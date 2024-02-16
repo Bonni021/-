@@ -6,7 +6,7 @@ let handler = async (m, { conn, command, args }) => {
   if (global.db.data.users[m.sender].exp >= xpperlimit * count) {
     global.db.data.users[m.sender].exp -= xpperlimit * count
     global.db.data.users[m.sender].limit += count
-    conn.reply(m.chat, `╭「 Bonni 𝐁𝐨𝐭 」
+    conn.reply(m.chat, `╭「 𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕 」
 │🛒 *NOTA DE PAGO* 
 │┈┈┈┈┈┈┈┈┈┈┈┈┈
 │➯‣ *Compra nominal* : + ${count}💎 

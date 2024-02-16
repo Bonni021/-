@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「 Bonni 𝐁𝐨𝐭 」\n│➯(♦️)*Hola estás en el menu-Anime elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「 Bonni 𝐁𝐨𝐭 」\n│➯(♦️)*Hello you are in the menu-Anime choose an option and ask for an image*\n╰───────────────╯`)
+await m.reply(`╭「 𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕 」\n│➯(♦️)*Hola estás en el menu-Anime elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「 𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕 」\n│➯(♦️)*Hello you are in the menu-Anime choose an option and ask for an image*\n╰───────────────╯`)
 let pp = imagen5
 let vn = './Audios/Konede.mp3'
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
@@ -18,9 +18,9 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「 Bonni 𝐁𝐨𝐭 」
+let str = `╭「 𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕 」
 │➯𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Bonni-Bot
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕
 │➯ *𝙸𝙽𝙵𝙾: Wa.me/5493487478549
 │➯ *Yape: 9
 │➯ғᴇᴄʜᴀ:➟${date}
@@ -28,7 +28,7 @@ let str = `╭「 Bonni 𝐁𝐨𝐭 」
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
-╭「 Bonni 𝐁𝐨𝐭 」
+╭「 𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕 」
 │➯ *Menu-Anime*
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢

@@ -19,9 +19,9 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「 Bonni 𝐁𝐨𝐭 」
+let str = `╭「 𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕 」
 │➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Bonni-Bot
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓🥑💕
 │➯ *𝙸𝙽𝙵𝙾: Wa.me/5493487478549
 │➯ *Yape: 900711258
 │➯ *ғᴇᴄʜᴀ:➟${date}
