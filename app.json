@@ -1,5 +1,5 @@
 {
-  "name": "𝐂𝐀𝐂𝐀𝐇𝐔𝐀𝐓𝐄𝐒 𝐁𝐎𝐓",
+  "name": "𝐇𝐀𝐃𝐄𝐒 𝐁𝐎𝐓 ✍️",
   "website": "https://youtube.com/@hades_bot2391",
   "description": "Super Bot WhatsApp",
   "repository": "https://github.com/Bonni021/prueba.git",
@@ -19,7 +19,7 @@
     "md",
     "whatsappbot",
     "oficial",
-    "whatsapp-md",
+    "whatsapp-md", 
   "image": "heroku/nodejs"
   "buildpacks": [
     {
